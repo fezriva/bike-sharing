@@ -1,0 +1,27 @@
+I want to see two different things in the first place:
+
+Routes
+
+ - keys are the end stations and value are all the start stations related to it and how many time that route was made - Done
+ - set endStation and find which are the best stations to advertise (clustering) by measuring probability of target
+
+
+Users
+ - avg trip duration and distance based on User type
+
+
+    Trip Duration (seconds)
+    Start Time and Date
+    End Time and Date
+    Start Station ID
+    Start Station Name
+    Start Station Latitude
+    Start Station Longitude
+    End Station ID
+    End Station Name
+    End Station Latitude
+    End Station Longitude
+    Bike ID
+    User Type (Subscriber or Customer – “Subscriber” = Member or “Customer” = Casual)
+    Birth Year
+    Sex

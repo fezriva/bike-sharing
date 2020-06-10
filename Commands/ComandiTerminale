@@ -1,0 +1,24 @@
+hdfs namenode -format
+
+start-dfs.sh
+start-yarn.sh
+
+hdfs dfs -mkdir /input
+hdfs dfs -put /home/fezriva/Scrivania/BayWheels/Dataset/201901-baywheels-tripdata.csv /input
+hdfs dfs -put /home/fezriva/Scrivania/BayWheels/Dataset/201902-baywheels-tripdata.csv /input
+hdfs dfs -put /home/fezriva/Scrivania/BayWheels/Dataset/201903-baywheels-tripdata.csv /input
+hdfs dfs -put /home/fezriva/Scrivania/BayWheels/Dataset/201904-baywheels-tripdata.csv /input
+hdfs dfs -put /home/fezriva/Scrivania/BayWheels/Dataset/201905-baywheels-tripdata.csv /input
+
+hadoop jar /home/fezriva/Scrivania/BayWheels/BikeSharing.jar BikeSharing 1 /input outputTripIndex
+hdfs dfs -ls outputTripIndex
+hdfs dfs -cat outputTripIndex/*
+
+hadoop jar /home/fezriva/Scrivania/BayWheels/BikeSharing.jar BikeSharing 2 /input outputStation
+hdfs dfs -ls outputStation
+hdfs dfs -cat outputStation/*
+
+hadoop jar /home/fezriva/Scrivania/BayWheels/BikeSharing.jar BikeSharing 3 /input outputUsers
+hdfs dfs -ls outputUsers
+hdfs dfs -cat outputUsers/*
+

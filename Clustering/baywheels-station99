@@ -1,0 +1,175 @@
+St_num,St_name,St_lat,St_lon,Age_Target,Gender,Num_trips
+10,Washington St at Kearny St,37.7953929373,-122.4047702551,2,Male,18
+100,Bryant St at 15th St,37.7671004,-122.410662,2,Male,5
+101,15th St at Potrero Ave,37.7670785046,-122.4073585868,2,Male,26
+104,4th St at 16th St,37.7670445797,-122.390833497,2,Male,4
+105,16th St at Prosper St,37.764285,-122.4318042,2,Male,12
+106,Sanchez St at 17th St,37.7632417,-122.4306746,2,Male,1
+108,16th St Mission BART,37.7647100858,-122.4199569225,2,Male,6
+109,17th St at Valencia St,37.7633158,-122.4219039,2,Male,13
+11,Davis St at Jackson St,37.79728,-122.398436,2,Male,14
+110,17th & Folsom Street Park (17th St at Folsom St),37.7637085,-122.4152042,2,Male,22
+112,Harrison St at 17th St,37.7638471,-122.4130036,2,Male,20
+113,Franklin Square,37.764555,-122.410345,2,Male,2
+114,Rhode Island St at 17th St,37.7644783,-122.4025701,2,Male,7
+115,Jackson Playground,37.7650259,-122.3987734,2,Male,4
+116,Mississippi St at 17th St,37.7648022,-122.3947713,2,Male,3
+118,Eureka Valley Recreation Center,37.7591769,-122.4369431,2,Male,4
+119,18th St at Noe St,37.7610471,-122.4326417,2,Male,7
+120,Mission Dolores Park,37.7614205,-122.4264353,2,Male,10
+121,Mission Playground,37.7592103,-122.4213392,2,Male,6
+122,19th St at Mission St,37.760299,-122.418892,2,Male,12
+123,Folsom St at 19th St,37.7605936,-122.4148171,2,Male,20
+124,19th St at Florida St,37.7604469,-122.410807,2,Male,7
+125,20th St at Bryant St,37.7592005,-122.409851,2,Male,12
+126,Esprit Park,37.7616343,-122.3906477,2,Male,3
+127,Valencia St at 21st St,37.7567083,-122.421025,2,Male,8
+129,Harrison St at 20th St,37.758862,-122.412544,2,Male,19
+13,Commercial St at Montgomery St,37.794231,-122.402923,2,Male,3
+130,22nd St Caltrain Station,37.7572884078,-122.3920512199,2,Male,5
+132,24th St at Chattanooga St,37.7518194,-122.4266139,2,Male,2
+133,Valencia St at 22nd St,37.7552126,-122.4209752,2,Male,6
+134,Valencia St at 24th St,37.7524278,-122.4206278,2,Male,2
+136,23rd St at San Bruno Ave,37.7544356,-122.4043639,2,Male,3
+137,Jersey St at Castro St,37.750506,-122.4339496,2,Male,3
+139,Garfield Square (25th St at Harrison St),37.7510171,-122.4119009,2,Male,12
+14,Clay St at Battery St,37.795001,-122.39997,2,Male,10
+140,Cesar Chavez St at Dolores St,37.7478584,-122.4249863,2,Male,2
+141,Valencia St at Cesar Chavez St,37.7479981,-122.4202187,2,Male,8
+144,Precita Park,37.7472996,-122.4114029,2,Male,4
+15,San Francisco Ferry Building (Harry Bridges Plaza),37.795392,-122.394203,2,Male,82
+16,Steuart St at Market St,37.79413,-122.39443,2,Male,39
+17,Embarcadero BART Station (Beale St at Market St),37.792251,-122.397086,2,Male,7
+19,Post St at Kearny St,37.788975,-122.403452,2,Male,16
+20,Mechanics Monument Plaza (Market St at Bush St),37.7913,-122.399051,2,Male,2
+21,Montgomery St BART Station (Market St at 2nd St),37.7896254,-122.400811,2,Male,19
+22,Howard St at Beale St,37.789756,-122.394643,2,Male,4
+223,16th St Mission BART Station 2,37.7647652155,-122.420091033,2,Male,13
+23,The Embarcadero at Steuart St,37.791464,-122.391034,2,Male,12
+24,Spear St at Folsom St,37.7896767,-122.3904285,2,Male,5
+25,Howard St at 2nd St,37.7869282568,-122.3981130123,2,Male,1
+25,Howard St at 2nd St,37.7875217805,-122.3974049091,2,Male,1
+26,1st St at Folsom St,37.78729,-122.39438,2,Male,4
+27,Beale St at Harrison St,37.7880593,-122.3918648,2,Male,2
+277,Morrison Ave at Julian St,37.3336577,-121.9085859,2,Male,1
+278,The Alameda at Bush St,37.3319323,-121.9048882,2,Male,1
+28,The Embarcadero at Bryant St,37.7871680147,-122.3880979233,2,Male,5
+280,San Fernando St at 7th St,37.3371223729,-121.8832147121,2,Male,9
+281,9th St at San Fernando St,37.3383952,-121.8807965,2,Male,4
+284,Yerba Buena Center for the Arts (Howard St at 3rd St),37.7848720844,-122.4008756876,2,Male,3
+285,Webster St at O'Farrell St,37.7835208353,-122.4311578274,2,Male,6
+286,San Carlos St at 11th St,37.3364659,-121.8766132,2,Male,2
+287,Almaden Blvd at Balbach St,37.32673,-121.8892731,2,Male,1
+29,O'Farrell St at Divisadero St,37.7824046019,-122.4394458532,2,Male,5
+292,Empire St at 1st St,37.3448821,-121.8969655,2,Male,2
+294,Pierce Ave at Market St,37.327581,-121.884559,2,Male,2
+295,William St at 10th St,37.3327938,-121.8759263,2,Male,1
+296,5th St at Virginia St,37.3259984,-121.87712,2,Male,21
+298,Oak St at 1st St,37.3221246254,-121.8810904026,2,Male,1
+299,Bestor Art Park,37.3236779,-121.8741186,2,Male,13
+3,Powell St BART Station (Market St at 4th St),37.7863752686,-122.4049043655,2,Male,9
+30,San Francisco Caltrain (Townsend St at 4th St),37.776598,-122.395282,2,Male,18
+304,Jackson St at 5th St,37.3487586867,-121.8947978318,2,Male,2
+305,Ryland Park,37.342725,-121.895617,2,Male,1
+308,San Pedro Square,37.336802,-121.8940901,2,Male,5
+309,San Jose City Hall,37.337391,-121.886995,2,Male,2
+31,Raymond Kimbell Playground,37.7838127093,-122.4345588684,2,Male,20
+310,San Fernando St at 4th St,37.335885,-121.88566,2,Male,18
+311,Paseo De San Antonio at 2nd St,37.333798,-121.886943,2,Male,16
+312,San Jose Diridon Station,37.329732,-121.901782,2,Male,2
+314,Santa Clara St at Almaden Blvd,37.333988,-121.894902,2,Male,1
+316,San Salvador St at 1st St,37.330165,-121.885831,2,Male,3
+317,San Salvador St at 9th St,37.333955,-121.877349,2,Male,4
+318,San Carlos St at Market St,37.330698,-121.888979,2,Male,2
+321,5th St at Folsom,37.7801457035,-122.4030708524,2,Male,7
+323,Broadway at Kearny,37.798013644,-122.4059504271,2,Male,17
+324,Union Square (Powell St at Post St),37.7882999782,-122.4085307121,2,Male,15
+327,5th St at San Salvador St,37.332038681,-121.8817663193,2,Male,9
+33,Golden Gate Ave at Hyde St,37.7816495,-122.4154077,2,Male,1
+336,Potrero Ave and Mariposa St,37.7632809406,-122.4073773623,2,Male,4
+34,Father Alfred E Boeddeker Park,37.7839879,-122.412408,2,Male,2
+341,Fountain Alley at S 2nd St,37.3361883003,-121.8892765045,2,Male,1
+343,Bryant St at 2nd St,37.7831719893,-122.3935720325,2,Male,4
+345,Hubbell St at 16th St,37.7664742152,-122.3982954025,2,Male,2
+345,Hubbell St at 16th St,37.7664826964,-122.3982793093,2,Male,5
+349,Howard St at Mary St,37.7810097172,-122.4056661129,2,Male,4
+350,8th St at Brannan St,37.7714313629,-122.4057868123,2,Male,5
+355,23rd St at Tennessee St,37.7553671322,-122.3887950182,2,Male,4
+356,Valencia St at Clinton Park,37.7691881781,-122.42228508,2,Male,2
+357,2nd St at Julian St,37.3411320355,-121.8928438425,2,Male,1
+36,Folsom St at 3rd St,37.78383,-122.39887,2,Male,8
+363,Salesforce Transit Center (Natoma St at 2nd St),37.7874921044,-122.3982846737,2,Male,1
+364,China Basin St at 3rd St,37.7719996,-122.3899698,2,Male,2
+365,Turk St at Fillmore St,37.78045006,-122.4319463968,2,Male,3
+368,Myrtle St at Polk St,37.7854338279,-122.4196216464,2,Male,9
+369,Hyde St at Post St,37.7873490232,-122.4166510999,2,Male,13
+37,2nd St at Folsom St,37.7853765938,-122.3969060183,2,Male,6
+370,Jones St at Post St,37.7873267661,-122.4132782221,2,Male,5
+371,Lombard St at Columbus Ave,37.8027461525,-122.4135786295,2,Male,53
+373,Potrero del Sol Park (25th St at Utah St),37.7517916453,-122.4052155018,2,Male,9
+375,Grove St at Masonic Ave,37.7748362941,-122.4465456605,2,Male,3
+377,Fell St at Stanyan St,37.7719168826,-122.4537044764,2,Male,21
+380,Masonic Ave at Turk St,37.7790466585,-122.4472913146,2,Male,4
+381,20th St at Dolores St,37.7582384242,-122.4260938168,2,Male,3
+383,Golden Gate Ave at Franklin St,37.7807871267,-122.4219337106,2,Male,3
+384,Jackson St at Polk St,37.7941604417,-122.421567589,2,Male,17
+386,24th St at Bartlett St,37.7521049844,-122.4197235703,2,Male,5
+39,Scott St at Golden Gate Ave,37.7789994,-122.4368608,2,Male,5
+398,Leavenworth St at Broadway,37.7964706916,-122.41685763,2,Male,5
+399,Bay St at Fillmore St,37.8026359497,-122.4362888932,2,Male,103
+4,Cyril Magnin St at Ellis St,37.7858806269,-122.4089150084,2,Male,3
+400,Buchanan St at North Point St,37.8042720199,-122.4335369468,2,Male,56
+41,Golden Gate Ave at Polk St,37.78127,-122.41874,2,Male,3
+411,Octavia Blvd at Page St,37.7740179377,-122.4238085747,2,Male,1
+412,Glen Park BART Station,37.7328128005,-122.4341404438,2,Male,2
+419,Fern St at Polk St,37.7881969078,-122.4203726649,2,Male,1
+42,San Francisco City Hall (Polk St at Grove St),37.77865,-122.41823,2,Male,11
+43,San Francisco Public Library (Grove St at Hyde St),37.7787677,-122.4159292,2,Male,5
+44,Civic Center/UN Plaza BART Station (Market St at McAllister St),37.7810737,-122.4117382,2,Male,13
+47,4th St at Harrison St,37.7809545996,-122.3997491598,2,Male,1
+49,S Park St at 3rd St,37.7807601,-122.3949894,2,Male,2
+5,Powell St BART Station (Market St at 5th St),37.7838993571,-122.4084448814,2,Male,12
+50,2nd St at Townsend St,37.780526,-122.390288,2,Male,15
+51,Parker Ave at McAllister St,37.7761009126,-122.4530929327,2,Male,6
+52,McAllister St at Baker St,37.7774157,-122.4418376,2,Male,2
+53,Grove St at Divisadero,37.775946,-122.4377775,2,Male,5
+54,Alamo Square (Steiner St at Fulton St),37.7775467702,-122.4332740903,2,Male,6
+55,Webster St at Grove St,37.7770527,-122.4295585,2,Male,3
+56,Koshland Park,37.77341397,-122.4273169041,2,Male,12
+58,Market St at 10th St,37.776619,-122.417385,2,Male,39
+59,S Van Ness Ave at Market St,37.774814,-122.418954,2,Male,3
+6,The Embarcadero at Sansome St,37.80477,-122.403234,2,Male,36
+60,8th St at Ringold St,37.7745204011,-122.4094493687,2,Male,34
+61,Howard St at 8th St,37.7765126,-122.4113061,2,Male,10
+62,Victoria Manalo Draves Park,37.7777905703,-122.4064318836,2,Male,8
+63,Bryant St at 6th St,37.7759102223,-122.4025750067,2,Male,4
+66,3rd St at Townsend St,37.7787416115,-122.3927408271,2,Male,7
+67,San Francisco Caltrain Station 2  (Townsend St at 4th St),37.7766392,-122.3955263,2,Male,26
+70,Central Ave at Fell St,37.7733108789,-122.4442926049,2,Male,15
+71,Broderick St at Oak St,37.7730627,-122.4390777,2,Male,7
+72,Page St at Scott St,37.772406,-122.4356498,2,Male,4
+73,Pierce St at Haight St,37.7717933,-122.4337079,2,Male,6
+74,Laguna St at Hayes St,37.7764348192,-122.4262440205,2,Male,13
+75,Market St at Franklin St,37.7737932061,-122.4212390184,2,Male,2
+76,McCoppin St at Valencia St,37.7716624622,-122.4224232137,2,Male,7
+77,11th St at Natoma St,37.7735069,-122.4160402,2,Male,9
+78,Folsom St at 9th St,37.7737172,-122.4116467,2,Male,4
+79,7th St at Brannan St,37.7734919,-122.4036725,2,Male,5
+8,The Embarcadero at Vallejo St,37.799953,-122.398525,2,Male,15
+80,Townsend St at 5th St,37.7752348686,-122.3974370956,2,Male,10
+81,Berry St at 4th St,37.77588,-122.39317,2,Male,14
+84,Duboce Park,37.7692005,-122.4338119,2,Male,8
+85,Church St at Duboce Ave,37.7700831,-122.4291557,2,Male,7
+86,Market St at Dolores St,37.7693053,-122.4268256,2,Male,10
+87,Folsom St at 13th St,37.769757,-122.415674,2,Male,3
+88,11th St at Bryant St,37.7700298,-122.4117258,2,Male,3
+89,Division St at Potrero Ave,37.7692178615,-122.4076455832,2,Male,47
+9,Broadway at Battery St,37.7985721085,-122.4008689821,2,Male,9
+90,Townsend St at 7th St,37.771058,-122.402717,2,Male,12
+92,Mission Bay Kids Park,37.7723006317,-122.393027544,2,Male,4
+93,4th St at Mission Bay Blvd S,37.7704074,-122.3911984,2,Male,7
+95,Sanchez St at 15th St,37.7662185,-122.4310597,2,Male,7
+96,Dolores St at 15th St,37.7662102,-122.4266136,2,Male,4
+97,14th St at Mission St,37.7682646,-122.4201102,2,Male,4
+98,Valencia St at 16th St,37.765052,-122.4218661,2,Male,8
+99,Folsom St at 15th St,37.7670373,-122.4154425,2,Male,8
